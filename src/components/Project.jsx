@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Project = ({ project }) => {
   return (
     <Link
-      to="/projectDetails"
+      to={`${project.id}`}
       className="overflow-hidden relative transition duration-200 transform hover:-translate-y-2 rounded shadow-lg hover:shadow-2xl"
     >
       <img

@@ -4,7 +4,7 @@ import Project from "./Project";
 
 const Projects = () => {
   const { projects } = useLoaderData();
-  console.log(projects);
+
   return (
     <div className="my-container">
       <div className="grid gap-6 mb-8 lg:grid-cols-3 sm:grid-cols-2">

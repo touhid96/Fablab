@@ -22,7 +22,7 @@ const Header = () => {
           </li>
           <li>
             <NavLink to="/projects" className={({ isActive }) => (isActive ? "active" : "default")}>
-              Prejects
+              Projects
             </NavLink>
           </li>
           <li>

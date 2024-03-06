@@ -1,9 +1,14 @@
 import React from "react";
-import { Link, useLoaderData } from "react-router-dom";
+import { Link, useLoaderData, useParams } from "react-router-dom";
 
 const ProjectsDetails = () => {
   const { projects } = useLoaderData();
-  console.log(projects);
+
+  const { id } = useParams();
+  const project = projects?.find((p) => p.id == id);
+  if (!project) {
+    return "Loading";
+  }
   return (
     <div className="my-container">
       {/* Container Box */}
@@ -11,7 +16,7 @@ const ProjectsDetails = () => {
         {/* Image Container */}
         <div className=" lg:w-1/2 h-full">
           <img
-            src={projects[0].projectPicture}
+            src={project.projectPicture}
             alt="book cover"
             className="object-cover w-full  lg:h-full"
           />
@@ -21,17 +26,14 @@ const ProjectsDetails = () => {
           <div>
             <p className="badge">Brand new</p>
           </div>
-          <h5 className="mb-3 text-3xl font-extrabold leading-none sm:text-4xl">
-            {projects[0].title}
-          </h5>
+          <h5 className="mb-3 text-3xl font-extrabold leading-none sm:text-4xl"></h5>
           <p className=" text-gray-900" font-bold>
             {" "}
             <span className="mb-3 text-xl  leading-none sm:text-xl">Creator:</span>{" "}
-            {projects[0].projectAuthor}
           </p>
           <p>
             {" "}
-            <span className="text-xl">Project Details:</span> {projects[0].postDrescription}
+            <span className="text-xl">Project Details:</span>
           </p>
           <Link to="/projects" className="btn md:w-auto md:mr-4 mt-10">
             <div className="inline-flex items-center justify-center w-full h-full">
