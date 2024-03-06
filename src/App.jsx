@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <div>
+    <div className="custom-bg">
       <Header></Header>
       <div className="min-h-[calc(100vh-136px)]">
         <Outlet></Outlet>
