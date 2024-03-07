@@ -54,11 +54,16 @@ const ProjectsDetails = () => {
               ))}
             </span>{" "}
           </p>
-          <Link to="/projects" className="btn md:w-auto md:mr-4 mt-10">
+          {/* <Link to="/projects" className="btn md:w-auto md:mr-4 mt-10">
             <div className="inline-flex items-center justify-center w-full h-full">
               <p className="mr-3">Go to Projects</p>
             </div>
-          </Link>
+          </Link> */}
+          <a href="/projects" className="btn md:w-auto md:mr-4 mt-10">
+            <div className="inline-flex items-center justify-center w-full h-full">
+                <p className="mr-3">Go to Projects</p>
+            </div>
+          </a>
         </div>
       </div>
     </div>
