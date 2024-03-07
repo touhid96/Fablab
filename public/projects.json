@@ -102,8 +102,9 @@
       "id": 15,     
       "picture": "https://i.ibb.co/649hK4N/urban-water-cycle.png",
       "title": "Urban Water Cycle",
-      "description": "We have decided to create a model of an urban parasol that provides shade in urban areas while also reducing soil permeability by directly redistribuCng water into the ground. We plan to integrate a water redirecCon system inside the parasol to divert the water collected by a dome located at the top of the parasol into the soil, thus avoiding water stagnaCon on impermeable ground",
-      "developer": ["Tanguy Muller", "Justin Barbier"]
+      "description": "Introducing \"Urban Water Cycle\" by Tanguy Muller & Justin Barbier: an ingenious urban parasol model that doesn't just provide shade—it revolutionizes urban landscapes. Inspired by architectural wonders like Seville's parasol and Singapore's Garden by the Bay, this design integrates a cutting-edge dome folding mechanism for efficient water collection and soil permeability enhancement. Despite initial 3D modeling challenges, the team's perseverance led to a breakthrough in crafting a waterproof yet retractable dome, setting new standards in urban innovation. Imagine lush climbing plants adorning its structure, and captivating water recovery simulations visualizing a sustainable future. <b>\"Urban Water Cycle\"</b> isn't just an exhibition piece—it's a vision of urban harmony and ingenuity.",
+      "developer": ["Tanguy Muller", "Justin Barbier"],
+      "comment": "todo description update"
   },
   {
       "id": 16,     
@@ -130,7 +131,7 @@
       "id": 19,     
       "picture": "https://i.ibb.co/RH0BSh5/treeception.png",
       "title": "TreeCeption",
-      "description": "We have created a tree-like 3D structure where there are different sizes of air pockets. These air pockets can be used as a container for real plant cultivation. We have decided on the name “TreeCeption” as our 3D tree structure can hold multiple trees/plants. This structure can be used as a decorative item in a household, at the same time it is environmentally friendly. Not only will our “TreeCeption” add beautiful interiors in households, shopping malls, parks, children's playgrounds but also real plants will add a positive impact on the environment like removing air pollution, increasing oxygen supply, combating different diseases etc. Besides, it could be an educational approach towards young children. They will be able to learn the importance of trees in our environment in a fun way. At the same time, as our structure can hold multiple plants, less space will be required and taking care of these plants will be much easier and hassle free. ",
+      "description": "We have created a tree-like 3D structure where there are different sizes of air pockets. These air pockets can be used as a container for real plant cultivation. We have decided on the name “TreeCeption” as our 3D tree structure can hold multiple trees/plants. This structure can be used as a decorative item in a household, at the same time it is environmentally friendly. Not only will our &quot;TreeCeption&quot; add beautiful interiors in households, shopping malls, parks, children's playgrounds but also real plants will add a positive impact on the environment like removing air pollution, increasing oxygen supply, combating different diseases etc. Besides, it could be an educational approach towards young children. They will be able to learn the importance of trees in our environment in a fun way. At the same time, as our structure can hold multiple plants, less space will be required and taking care of these plants will be much easier and hassle free.",
       "developer": ["Sharmen Shobnom Desha", "Sakib Arman"]
   }
   ]
