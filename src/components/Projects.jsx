@@ -5,10 +5,13 @@ import Project from "./Project";
 const Projects = () => {
   const { projects } = useLoaderData();
 
+  if (!projects) {
+    return "Loading";
+  }
   return (
     <div className="my-container">
       <div className="grid gap-6 mb-8 lg:grid-cols-3 sm:grid-cols-2">
-        {projects.map((project) => (
+        {projects?.map((project) => (
           <Project key={project.id} project={project}></Project>
         ))}
       </div>

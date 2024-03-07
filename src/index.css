@@ -6,7 +6,7 @@
   @apply px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20;
 }
 .btn {
-  @apply inline-flex items-center h-12 px-6 mb-3 font-medium  transition duration-200 rounded shadow-md  md:mb-0 text-gray-200 custom-bg hover:bg-green-600;  
+  @apply inline-flex items-center h-12 px-6 mb-3 font-medium  transition duration-200 rounded shadow-md  md:mb-0 text-gray-200  bg-gray-600 hover:bg-green-600;
 }
 
 .badge {
@@ -22,19 +22,19 @@
 }
 
 .custom-bg {
-  background-color: #009C62; /* Replace #abcdef with your desired color */
+  background-color: #009c62; /* Replace #abcdef with your desired color */
 }
-.custom-font{
-  color: #009C62;
+.custom-font {
+  color: #009c62;
 }
-.custom-border{
-  border-color: #009C62;
+.custom-border {
+  border-color: #009c62;
 }
 
-li a{
+li a {
   @apply p-2 rounded-lg border border-solid;
 }
 
-.p-description{
+.p-description {
   @apply py-2 text-2xl m-2 leading-10 text-gray-600;
 }

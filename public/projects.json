@@ -2,19 +2,58 @@
   "projects": [
     {
       "id": 1,
-      "userName": "Group 1",
-      "projectPicture": "https://i.ibb.co/hZsNY9d/Screenshot-2024-02-27-at-00-59-42.png",
-      "title": "PROJECT: 'ArTree' GREEN CITY PLANNING - BREMEN, GERMANY",
-      "postDrescription": "Building a plant-like structure using “Breaking folds”. Name: <ArTree>. ● Purpose of the <ArTree>: Primarily generation of electricity using artificial photosynthesis. To enhance the landscape, efficient use of public space, central energy systems, and greenery, associated with climate change, helps with shadows during summers.",
-      "projectAuthor": "Abdullah Fuad"
+      "projectPicture": "https://i.ibb.co/q5pShQ5/Screenshot-2024-03-07-at-01-46-17.png",
+      "title": "Folding Perspective",
+      "postDrescription": "Urban cityscapes are often associated with the gray. Gray streets, gray buildings, gray feelings. “Folding Perspective” shows us how green our city of Bremen could be by folding space itself. The true vision arises only when you view things from a certain perspective.",
+      "projectAuthor": ["Marcus Schneigelberger", "Ali Karakas"]
     },
     {
       "id": 2,
       "userName": "Group 2",
-      "projectPicture": "https://i.ibb.co/fFZ69xY/IMG20240227010250.jpg",
-      "title": "Rainwater harvesting",
-      "postDrescription": " Water, an indispensable resource for life, is facing increasing challenges due to climate change, population growth, and over-extraction from traditional sources.",
-      "projectAuthor": "Md Touhidul Islam"
+      "projectPicture": "https://i.ibb.co/2Ypyj8X/Screenshot-2024-03-07-at-01-52-05.png",
+      "title": "Flows in city",
+      "postDrescription": " For the vegetal wall, the idea is that nowadays a lot of cities are doing rehabilitation, renovation,… asking creators and artists to embellish their cities and to add more environmental friendly embellishments through creative medium. In a way, the vegetal wall is a solution to add some “green” to a city in an interesting way. The advantages of the wall is that it can be adapted anywhere in the world by using the plants of the place concerned. In order to keep the idea of the course in mind, we use a generative pattern to determine the placement of each plant while allowing some randomness and some parameters like : how many areas, the type of the patterns and the uniqueness of the final art",
+      "projectAuthor": ["Lilou Alidor", "Pauline Gobé"]
+    },
+    {
+      "id": 3,
+      "userName": "Group 2",
+      "projectPicture": "https://i.ibb.co/NV5vnp1/Screenshot-2024-03-07-at-01-55-42.png",
+      "title": "Modular Design for Sustainable Vertical Greening",
+      "postDrescription": " Karachi, Pakistan, is currently undergoing an escalating urban development crisis, exacerbated by rapid and unplanned urbanization, climate change, and a dearth of sustainable initiatives. The city faces enormous challenges, which include energy generation issues, escalating temperatures, and a critical shortage of green spaces. Responding to these pressing concerns, this paper explores the potential of modular vertical greening systems within the realm of building-integrated horticulture as a strategic approach to reduce energy consumption and regulate the thermal dynamics of buildings. The proposed design envisions a modular structure that facilitates plant growth on the building façade, aligning with the principles of passive design. Integrating sustainable technologies, such as modular vertical greening systems, can contribute to temperature regulation with multifaceted benefits encompassing social, economic, and environmental dimensions.",
+      "projectAuthor": ["Arnold Kester Anthony", "Mikhyle Sigmund Anthony"]
+    },
+    {
+      "id": 4,
+      "userName": "Group 2",
+      "projectPicture": "https://i.ibb.co/HKfnhBj/Screenshot-2024-03-07-at-01-57-32.png",
+      "title": "FRACTALS GROWING THROUGH CONCRETE",
+      "postDrescription": " ",
+      "projectAuthor": ["Bardavid", "Soto Acebal", "Wang"]
+    },
+    {
+      "id": 5,
+      "userName": "Group 2",
+      "projectPicture": "https://i.ibb.co/ftC5nFw/Screenshot-2024-03-07-at-02-01-12.png",
+      "title": "RESPONDING TO THE EVER GROWING LAND SEALING ACTIVITIES AND DECIMATING",
+      "postDrescription": "Responding to local ecological systems in cities, Flying circus is a kinetic art intervention across public spaces in Bremen. The work appropriates origami and principles of parametric designs to create imagery of natural elements that have been replaced by human presence and urban development. The kite like structure animated by gusts of wind that are characteristic of the city evoke a playful yet thought provoking scenario for loss of natural habitats across the globe and continuing troubled relationship between human and other-than-human worlds. These sculptures remind us of how natural entities are reduced to symbolic meanings, just the way the 'exhibited' performers of a circus are treated as a sight for mere amusement. ",
+      "projectAuthor": ["ADITI CHAUHAN | ZHIMIN WANG", "ZIYI LI"]
+    },
+    {
+      "id": 6,
+      "userName": "Group 2",
+      "projectPicture": "https://i.ibb.co/zS0FQLx/Screenshot-2024-03-07-at-02-05-20.png",
+      "title": "Incorporating plants",
+      "postDrescription": "",
+      "projectAuthor": ["Vanessa", "Yimei"]
+    },
+    {
+      "id": 7,
+      "userName": "Group 2",
+      "projectPicture": "https://i.ibb.co/jkQdCQY/Screenshot-2024-03-07-at-02-11-22.png",
+      "title": "Project ARTree GREEN CITY PLANNING",
+      "postDrescription": "The ARTree, a revolutionary 3D model, reimagines urban landscapes by merging the natural elegance of plant-like structures with cutting-edge solar energy technology. This unique installation draws inspiration from the concept of 'Breaking folds' to create a solar panel design reminiscent of the sun's radiance, serving both aesthetic and functional purposes. The ARTree embodies a bold step towards sustainable urban development, harnessing the power of artificial photosynthesis to generate electricity. This innovative approach not only enhances the visual appeal of public spaces but also promotes efficient use of such areas by integrating central energy systems.",
+      "projectAuthor": ["Abdullah Galive Fuad", "Zeeshan Haider", "Deepika Kathiravan"]
     }
   ]
 }

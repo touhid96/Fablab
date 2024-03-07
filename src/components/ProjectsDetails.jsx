@@ -24,16 +24,26 @@ const ProjectsDetails = () => {
         {/* Details Container */}
         <div className=" p-8 bg-white lg:p-16 lg:pl-10 lg:w-1/2">
           <div>
-            <p className="badge">Brand new</p>
+            <p className="badge"></p>
           </div>
-          <h5 className="mb-3 text-3xl font-extrabold leading-none sm:text-4xl"></h5>
-          <p className=" text-gray-900" font-bold>
-            {" "}
-            <span className="mb-3 text-xl  leading-none sm:text-xl">Creator:</span>{" "}
-          </p>
+          <h5 className="mb-3 text-3xl font-extrabold leading-none sm:text-4xl">{project.title}</h5>
+
+          <br />
           <p>
             {" "}
-            <span className="text-xl">Project Details:</span>
+            <span className="text-xl">Project Details: {project.postDrescription}</span>
+          </p>
+          <br />
+          <p className=" text-gray-900" font-bold>
+            {" "}
+            <span className="mb-3 text-xl  leading-none sm:text-xl">
+              Creator:
+              {project.projectAuthor.map((a) => (
+                <p key={a} className=" text-gray-500">
+                  {a}{" "}
+                </p>
+              ))}
+            </span>{" "}
           </p>
           <Link to="/projects" className="btn md:w-auto md:mr-4 mt-10">
             <div className="inline-flex items-center justify-center w-full h-full">
