@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, useLoaderData, useParams } from "react-router-dom";
+import UserImage from '../assets/user.svg';
 
 const ProjectsDetails = () => {
   const { projects } = useLoaderData();
@@ -14,11 +15,11 @@ const ProjectsDetails = () => {
       {/* Container Box */}
       <div className="flex flex-col max-w-screen-lg overflow-hidden bg-white border rounded shadow-sm lg:flex-row sm:mx-auto">
         {/* Image Container */}
-        <div className=" lg:w-1/2 h-full">
+        <div className=" lg:w-1/2 h-full p-2">
           <img
-            src={project.projectPicture}
+            src={project.picture}
             alt="book cover"
-            className="object-cover w-full  lg:h-full"
+            className="object-cover w-full  lg:h-full rounded"
           />
         </div>
         {/* Details Container */}
@@ -31,17 +32,25 @@ const ProjectsDetails = () => {
           <br />
           <p>
             {" "}
-            <span className="text-xl">Project Details: {project.postDrescription}</span>
+            <span className="text-xl">{project.description}</span>
           </p>
           <br />
           <p className=" text-gray-900" font-bold>
             {" "}
             <span className="mb-3 text-xl  leading-none sm:text-xl">
               Creator:
-              {project.projectAuthor.map((a) => (
-                <p key={a} className=" text-gray-500">
-                  {a}{" "}
-                </p>
+              {project.developer.map((a) => (
+                <div key={a} style={{ display: 'flex', alignItems: 'center' }}>
+                <img
+                  src={UserImage}
+                  alt="Image"
+                  style={{ width: '20px', height: '20px', marginRight: '10px' }}
+                />
+                <p>{a}</p>                
+              </div>
+                // <p key={a} className=" text-gray-500">
+                //   <span><img src={UserImage} height="20" width="20" /></span> <span>{a}</span>
+                // </p>
               ))}
             </span>{" "}
           </p>
