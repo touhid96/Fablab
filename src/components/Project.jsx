@@ -13,7 +13,7 @@ const Project = ({ project }) => {
         className="object-cover w-full h-56 md:h-64 xl:h-80 rounded"
       />
       <p className="font-bold text-2xl text-gray-700  mb-1 mt-1 pb-2">{project.title}</p>
-      <p>{project?.description.substring(0, 90)}...</p>
+      <p>{project?.description?.substring(0, 90)}...</p>
     </Link>
   );
 };

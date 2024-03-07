@@ -2,90 +2,90 @@
   "projects": [
     {
       "id": 1,
-      "projectPicture": "https://i.ibb.co/q5pShQ5/Screenshot-2024-03-07-at-01-46-17.png",
+      "picture": "https://i.ibb.co/q5pShQ5/Screenshot-2024-03-07-at-01-46-17.png",
       "title": "Folding Perspective",
-      "postDrescription": "Urban cityscapes are often associated with the gray. Gray streets, gray buildings, gray feelings. “Folding Perspective” shows us how green our city of Bremen could be by folding space itself. The true vision arises only when you view things from a certain perspective.",
-      "projectAuthor": ["Marcus Schneigelberger", "Ali Karakas"]
+      "description": "Urban cityscapes are often associated with the gray. Gray streets, gray buildings, gray feelings. “Folding Perspective” shows us how green our city of Bremen could be by folding space itself. The true vision arises only when you view things from a certain perspective.",
+      "developer": ["Marcus Schneigelberger", "Ali Karakas"]
     },
     {
       "id": 2,
       "userName": "Group 2",
-      "projectPicture": "https://i.ibb.co/2Ypyj8X/Screenshot-2024-03-07-at-01-52-05.png",
+      "picture": "https://i.ibb.co/2Ypyj8X/Screenshot-2024-03-07-at-01-52-05.png",
       "title": "Flows in city",
-      "postDrescription": " For the vegetal wall, the idea is that nowadays a lot of cities are doing rehabilitation, renovation,… asking creators and artists to embellish their cities and to add more environmental friendly embellishments through creative medium. In a way, the vegetal wall is a solution to add some “green” to a city in an interesting way. The advantages of the wall is that it can be adapted anywhere in the world by using the plants of the place concerned. In order to keep the idea of the course in mind, we use a generative pattern to determine the placement of each plant while allowing some randomness and some parameters like : how many areas, the type of the patterns and the uniqueness of the final art",
-      "projectAuthor": ["Lilou Alidor", "Pauline Gobé"]
+      "description": " For the vegetal wall, the idea is that nowadays a lot of cities are doing rehabilitation, renovation,… asking creators and artists to embellish their cities and to add more environmental friendly embellishments through creative medium. In a way, the vegetal wall is a solution to add some “green” to a city in an interesting way. The advantages of the wall is that it can be adapted anywhere in the world by using the plants of the place concerned. In order to keep the idea of the course in mind, we use a generative pattern to determine the placement of each plant while allowing some randomness and some parameters like : how many areas, the type of the patterns and the uniqueness of the final art",
+      "developer": ["Lilou Alidor", "Pauline Gobé"]
     },
     {
       "id": 3,
       "userName": "Group 2",
-      "projectPicture": "https://i.ibb.co/NV5vnp1/Screenshot-2024-03-07-at-01-55-42.png",
+      "picture": "https://i.ibb.co/NV5vnp1/Screenshot-2024-03-07-at-01-55-42.png",
       "title": "Modular Design for Sustainable Vertical Greening",
-      "postDrescription": " Karachi, Pakistan, is currently undergoing an escalating urban development crisis, exacerbated by rapid and unplanned urbanization, climate change, and a dearth of sustainable initiatives. The city faces enormous challenges, which include energy generation issues, escalating temperatures, and a critical shortage of green spaces. Responding to these pressing concerns, this paper explores the potential of modular vertical greening systems within the realm of building-integrated horticulture as a strategic approach to reduce energy consumption and regulate the thermal dynamics of buildings. The proposed design envisions a modular structure that facilitates plant growth on the building façade, aligning with the principles of passive design. Integrating sustainable technologies, such as modular vertical greening systems, can contribute to temperature regulation with multifaceted benefits encompassing social, economic, and environmental dimensions.",
-      "projectAuthor": ["Arnold Kester Anthony", "Mikhyle Sigmund Anthony"]
+      "description": " Karachi, Pakistan, is currently undergoing an escalating urban development crisis, exacerbated by rapid and unplanned urbanization, climate change, and a dearth of sustainable initiatives. The city faces enormous challenges, which include energy generation issues, escalating temperatures, and a critical shortage of green spaces. Responding to these pressing concerns, this paper explores the potential of modular vertical greening systems within the realm of building-integrated horticulture as a strategic approach to reduce energy consumption and regulate the thermal dynamics of buildings. The proposed design envisions a modular structure that facilitates plant growth on the building façade, aligning with the principles of passive design. Integrating sustainable technologies, such as modular vertical greening systems, can contribute to temperature regulation with multifaceted benefits encompassing social, economic, and environmental dimensions.",
+      "developer": ["Arnold Kester Anthony", "Mikhyle Sigmund Anthony"]
     },
     {
       "id": 4,
       "userName": "Group 2",
-      "projectPicture": "https://i.ibb.co/HKfnhBj/Screenshot-2024-03-07-at-01-57-32.png",
+      "picture": "https://i.ibb.co/HKfnhBj/Screenshot-2024-03-07-at-01-57-32.png",
       "title": "FRACTALS GROWING THROUGH CONCRETE",
-      "postDrescription": " ",
-      "projectAuthor": ["Bardavid", "Soto Acebal", "Wang"]
+      "description": " ",
+      "developer": ["Bardavid", "Soto Acebal", "Wang"]
     },
     {
       "id": 5,
       "userName": "Group 2",
-      "projectPicture": "https://i.ibb.co/ftC5nFw/Screenshot-2024-03-07-at-02-01-12.png",
+      "picture": "https://i.ibb.co/ftC5nFw/Screenshot-2024-03-07-at-02-01-12.png",
       "title": "RESPONDING TO THE EVER GROWING LAND SEALING ACTIVITIES AND DECIMATING",
-      "postDrescription": "Responding to local ecological systems in cities, Flying circus is a kinetic art intervention across public spaces in Bremen. The work appropriates origami and principles of parametric designs to create imagery of natural elements that have been replaced by human presence and urban development. The kite like structure animated by gusts of wind that are characteristic of the city evoke a playful yet thought provoking scenario for loss of natural habitats across the globe and continuing troubled relationship between human and other-than-human worlds. These sculptures remind us of how natural entities are reduced to symbolic meanings, just the way the 'exhibited' performers of a circus are treated as a sight for mere amusement. ",
-      "projectAuthor": ["ADITI CHAUHAN | ZHIMIN WANG", "ZIYI LI"]
+      "description": "Responding to local ecological systems in cities, Flying circus is a kinetic art intervention across public spaces in Bremen. The work appropriates origami and principles of parametric designs to create imagery of natural elements that have been replaced by human presence and urban development. The kite like structure animated by gusts of wind that are characteristic of the city evoke a playful yet thought provoking scenario for loss of natural habitats across the globe and continuing troubled relationship between human and other-than-human worlds. These sculptures remind us of how natural entities are reduced to symbolic meanings, just the way the 'exhibited' performers of a circus are treated as a sight for mere amusement. ",
+      "developer": ["ADITI CHAUHAN | ZHIMIN WANG", "ZIYI LI"]
     },
     {
       "id": 6,
       "userName": "Group 2",
-      "projectPicture": "https://i.ibb.co/zS0FQLx/Screenshot-2024-03-07-at-02-05-20.png",
+      "picture": "https://i.ibb.co/zS0FQLx/Screenshot-2024-03-07-at-02-05-20.png",
       "title": "Incorporating plants",
-      "postDrescription": "",
-      "projectAuthor": ["Vanessa", "Yimei"]
+      "description": "",
+      "developer": ["Vanessa", "Yimei"]
     },
     {
       "id": 7,
       "userName": "Group 2",
-      "projectPicture": "https://i.ibb.co/jkQdCQY/Screenshot-2024-03-07-at-02-11-22.png",
+      "picture": "https://i.ibb.co/jkQdCQY/Screenshot-2024-03-07-at-02-11-22.png",
       "title": "Project ARTree GREEN CITY PLANNING",
-      "postDrescription": "The ARTree, a revolutionary 3D model, reimagines urban landscapes by merging the natural elegance of plant-like structures with cutting-edge solar energy technology. This unique installation draws inspiration from the concept of 'Breaking folds' to create a solar panel design reminiscent of the sun's radiance, serving both aesthetic and functional purposes. The ARTree embodies a bold step towards sustainable urban development, harnessing the power of artificial photosynthesis to generate electricity. This innovative approach not only enhances the visual appeal of public spaces but also promotes efficient use of such areas by integrating central energy systems.",
-      "projectAuthor": ["Abdullah Galive Fuad", "Zeeshan Haider", "Deepika Kathiravan"]
+      "description": "The ARTree, a revolutionary 3D model, reimagines urban landscapes by merging the natural elegance of plant-like structures with cutting-edge solar energy technology. This unique installation draws inspiration from the concept of 'Breaking folds' to create a solar panel design reminiscent of the sun's radiance, serving both aesthetic and functional purposes. The ARTree embodies a bold step towards sustainable urban development, harnessing the power of artificial photosynthesis to generate electricity. This innovative approach not only enhances the visual appeal of public spaces but also promotes efficient use of such areas by integrating central energy systems.",
+      "developer": ["Abdullah Galive Fuad", "Zeeshan Haider", "Deepika Kathiravan"]
     },
     {
       "id": 8,
       "userName": "Group 2",
-      "projectPicture": "https://i.ibb.co/QXnqcy8/Getrak-Khan-Object-View-Angle.jpg",
+      "picture": "https://i.ibb.co/QXnqcy8/Getrak-Khan-Object-View-Angle.jpg",
       "title": "Forced Branches",
-      "postDrescription": "This object utilizes the idea of branches and a force field. The idea was that branches, which represent organic structures, are folded inside the force field, but there are some parts of them that break out from the field. The idea implies that plants are limited to the present world, where there are more and more man-made structures, but some of them are able to grow within the human society, which implies when branches break out from the force field.",
-      "projectAuthor": ["Metasit", "Zameer"]
+      "description": "This object utilizes the idea of branches and a force field. The idea was that branches, which represent organic structures, are folded inside the force field, but there are some parts of them that break out from the field. The idea implies that plants are limited to the present world, where there are more and more man-made structures, but some of them are able to grow within the human society, which implies when branches break out from the force field.",
+      "developer": ["Metasit", "Zameer"]
     },
     {
       "id": 9,
       "userName": "Group 2",
-      "projectPicture": "https://i.ibb.co/NYsztv5/Picture.jpg",
+      "picture": "https://i.ibb.co/NYsztv5/Picture.jpg",
       "title": "A Botanical Pavilion Harnessing Wind Power ",
-      "postDrescription": "The botanical pavilion serves as a source of inspiration, and to explore the intersection of nature, technology, and creativity. the potential of harmonious coexistence between humanity and the natural world. The pavilion’s design seamlessly integrates with the surrounding environment, creating a symbiotic relationship between architecture and nature. The structure serves as example of sustainable living and ecological balance. 3D design where botanical pavilions and wind turbine farms merge to create a harmonious blend of nature and technology.",
-      "projectAuthor": ["Hamza", "Awais"]
+      "description": "The botanical pavilion serves as a source of inspiration, and to explore the intersection of nature, technology, and creativity. the potential of harmonious coexistence between humanity and the natural world. The pavilion’s design seamlessly integrates with the surrounding environment, creating a symbiotic relationship between architecture and nature. The structure serves as example of sustainable living and ecological balance. 3D design where botanical pavilions and wind turbine farms merge to create a harmonious blend of nature and technology.",
+      "developer": ["Hamza", "Awais"]
     },
     {
       "id": 10,
       "userName": "Group 2",
-      "projectPicture": "https://i.ibb.co/BVGzHm6/Screenshot-2024-03-07-at-11-53-40.png",
+      "picture": "https://i.ibb.co/BVGzHm6/Screenshot-2024-03-07-at-11-53-40.png",
       "title": "3D DESIGN OF RAINWATER HARVESTING FOR DAILY USES",
-      "postDrescription": "Rainwater harvesting is a process of sustainability which will help preserving water for future needs. This is a simple and cost- effective process. To keep that in mind and to make the rainwater harvesting system more popular we have demonstrated a project in which we use 3D designed reserve tank and handmade house to show a short model of how this rainwater harvesting can be done for our houses. Water scarcity is a major issue now a days. For the non-developing countries and also for other countries, process will be a good way to conserve water.",
-      "projectAuthor": ["Md Touhidul Islam", "Subrina Jahan"]
+      "description": "Rainwater harvesting is a process of sustainability which will help preserving water for future needs. This is a simple and cost- effective process. To keep that in mind and to make the rainwater harvesting system more popular we have demonstrated a project in which we use 3D designed reserve tank and handmade house to show a short model of how this rainwater harvesting can be done for our houses. Water scarcity is a major issue now a days. For the non-developing countries and also for other countries, process will be a good way to conserve water.",
+      "developer": ["Md Touhidul Islam", "Subrina Jahan"]
     },
     {
       "id": 11,
       "userName": "Group 2",
-      "projectPicture": "https://i.ibb.co/qYhsnZn/Picture-1.png",
+      "picture": "https://i.ibb.co/qYhsnZn/Picture-1.png",
       "title": "Self – Sufficient Houses For Urban Areas",
-      "postDrescription": "Self-sufficient houses can help to address the housing crisis in Bangladesh while promoting sustainable living.Vertical gardening can help to maximize the use of space in urban areas and provide fresh produce for residents. Wind turbines can generate clean energy from the wind, which can be used to power homes and reduce reliance on fossil fuels.Solar power can provide a reliable source of energy for homes, especially in areas with frequent power outages. Biogas can be produced from organic waste and used as a source of fuel for cooking and heating.",
-      "projectAuthor": ["Md. Mahmudul Hasan", "Yeasir Arafat Ratul"]
+      "description": "Self-sufficient houses can help to address the housing crisis in Bangladesh while promoting sustainable living.Vertical gardening can help to maximize the use of space in urban areas and provide fresh produce for residents. Wind turbines can generate clean energy from the wind, which can be used to power homes and reduce reliance on fossil fuels.Solar power can provide a reliable source of energy for homes, especially in areas with frequent power outages. Biogas can be produced from organic waste and used as a source of fuel for cooking and heating.",
+      "developer": ["Md. Mahmudul Hasan", "Yeasir Arafat Ratul"]
     }
   ]
 }
