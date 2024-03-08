@@ -35,7 +35,7 @@ const Header = () => {
         <div className="lg:hidden">
           {/* Dropdown Open Button */}
           <button aria-label="Open Menu" title="Open Menu" onClick={() => setIsMenuOpen(true)}>
-            <Bars3BottomRightIcon className="w-5 text-gray-600" />
+            <Bars3BottomRightIcon className="w-5 text-white-900" />
           </button>
           {isMenuOpen && (
             <div className="absolute top-0 left-0 w-full z-10">
