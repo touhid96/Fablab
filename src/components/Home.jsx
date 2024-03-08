@@ -8,8 +8,8 @@ const Home = () => {
     <>
       <br />
       <Marquee className="text-danger" speed={50}>
-        <span className="font-bold text-xl">Opening event:</span> Friday, 22nd of March 2024 at 3 pm
-        at the FabLab of Postamt 5.
+        <span className="font-bold text-xl">Opening event: </span> Friday, 22nd of March 2024 at 3
+        pm at the FabLab of Postamt 5.
       </Marquee>
       <br />
       <BannerImage />
