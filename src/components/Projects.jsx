@@ -1,5 +1,5 @@
 import React from "react";
-import { useLoaderData } from "react-router-dom";
+import { Link, useLoaderData } from "react-router-dom";
 import Project from "./Project";
 
 const Projects = () => {
@@ -14,6 +14,11 @@ const Projects = () => {
         {projects?.map((project) => (
           <Project key={project.id} project={project}></Project>
         ))}
+      </div>
+      <div className="flex justify-center">
+        <Link to="/" className="btn bg-gray-600 ">
+          Go to Home
+        </Link>
       </div>
     </div>
   );
