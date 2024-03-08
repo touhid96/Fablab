@@ -9,7 +9,6 @@
     },
     {
       "id": 2,
-      "userName": "Group 2",
       "picture": "https://i.ibb.co/2Ypyj8X/Screenshot-2024-03-07-at-01-52-05.png",
       "title": "Flows in city",
       "description": " For the vegetal wall, the idea is that nowadays a lot of cities are doing rehabilitation, renovation,… asking creators and artists to embellish their cities and to add more environmental friendly embellishments through creative medium. In a way, the vegetal wall is a solution to add some “green” to a city in an interesting way. The advantages of the wall is that it can be adapted anywhere in the world by using the plants of the place concerned. In order to keep the idea of the course in mind, we use a generative pattern to determine the placement of each plant while allowing some randomness and some parameters like : how many areas, the type of the patterns and the uniqueness of the final art",
@@ -17,7 +16,6 @@
     },
     {
       "id": 3,
-      "userName": "Group 2",
       "picture": "https://i.ibb.co/NV5vnp1/Screenshot-2024-03-07-at-01-55-42.png",
       "title": "Modular Design for Sustainable Vertical Greening",
       "description": " Karachi, Pakistan, is currently undergoing an escalating urban development crisis, exacerbated by rapid and unplanned urbanization, climate change, and a dearth of sustainable initiatives. The city faces enormous challenges, which include energy generation issues, escalating temperatures, and a critical shortage of green spaces. Responding to these pressing concerns, this paper explores the potential of modular vertical greening systems within the realm of building-integrated horticulture as a strategic approach to reduce energy consumption and regulate the thermal dynamics of buildings. The proposed design envisions a modular structure that facilitates plant growth on the building façade, aligning with the principles of passive design. Integrating sustainable technologies, such as modular vertical greening systems, can contribute to temperature regulation with multifaceted benefits encompassing social, economic, and environmental dimensions.",
@@ -25,7 +23,6 @@
     },
     {
       "id": 4,
-      "userName": "Group 2",
       "picture": "https://i.ibb.co/HKfnhBj/Screenshot-2024-03-07-at-01-57-32.png",
       "title": "FRACTALS GROWING THROUGH CONCRETE",
       "description": " ",
@@ -33,15 +30,13 @@
     },
     {
       "id": 5,
-      "userName": "Group 2",
       "picture": "https://i.ibb.co/ftC5nFw/Screenshot-2024-03-07-at-02-01-12.png",
       "title": "RESPONDING TO THE EVER GROWING LAND SEALING ACTIVITIES AND DECIMATING",
       "description": "Responding to local ecological systems in cities, Flying circus is a kinetic art intervention across public spaces in Bremen. The work appropriates origami and principles of parametric designs to create imagery of natural elements that have been replaced by human presence and urban development. The kite like structure animated by gusts of wind that are characteristic of the city evoke a playful yet thought provoking scenario for loss of natural habitats across the globe and continuing troubled relationship between human and other-than-human worlds. These sculptures remind us of how natural entities are reduced to symbolic meanings, just the way the 'exhibited' performers of a circus are treated as a sight for mere amusement. ",
-      "developer": ["ADITI CHAUHAN | ZHIMIN WANG", "ZIYI LI"]
+      "developer": ["ADITI CHAUHAN", "ZHIMIN WANG", "ZIYI LI"]
     },
     {
       "id": 6,
-      "userName": "Group 2",
       "picture": "https://i.ibb.co/zS0FQLx/Screenshot-2024-03-07-at-02-05-20.png",
       "title": "Incorporating plants",
       "description": "",
@@ -49,7 +44,6 @@
     },
     {
       "id": 7,
-      "userName": "Group 2",
       "picture": "https://i.ibb.co/jkQdCQY/Screenshot-2024-03-07-at-02-11-22.png",
       "title": "Project ARTree GREEN CITY PLANNING",
       "description": "The ARTree, a revolutionary 3D model, reimagines urban landscapes by merging the natural elegance of plant-like structures with cutting-edge solar energy technology. This unique installation draws inspiration from the concept of 'Breaking folds' to create a solar panel design reminiscent of the sun's radiance, serving both aesthetic and functional purposes. The ARTree embodies a bold step towards sustainable urban development, harnessing the power of artificial photosynthesis to generate electricity. This innovative approach not only enhances the visual appeal of public spaces but also promotes efficient use of such areas by integrating central energy systems.",
@@ -57,35 +51,87 @@
     },
     {
       "id": 8,
-      "userName": "Group 2",
-      "picture": "https://i.ibb.co/QXnqcy8/Getrak-Khan-Object-View-Angle.jpg",
-      "title": "Forced Branches",
-      "description": "This object utilizes the idea of branches and a force field. The idea was that branches, which represent organic structures, are folded inside the force field, but there are some parts of them that break out from the field. The idea implies that plants are limited to the present world, where there are more and more man-made structures, but some of them are able to grow within the human society, which implies when branches break out from the force field.",
-      "developer": ["Metasit", "Zameer"]
+      "picture": "https://i.ibb.co/G5tJHGK/a-drop-of-magda.png",
+      "title": "A drop of Magda",
+      "description": "Magda is an extension of us that will allow us to explore the materiality of the clay, to question our selves and our relation with the space and how we flow with it. Through speculation, experimentation and parametric desing. We want to create a fabric to inhabit the space in a non-invasive way.",
+      "developer": ["Alethia Pinzon", "Vivian Hernandez R."]
     },
     {
       "id": 9,
-      "userName": "Group 2",
-      "picture": "https://i.ibb.co/NYsztv5/Picture.jpg",
-      "title": "A Botanical Pavilion Harnessing Wind Power ",
-      "description": "The botanical pavilion serves as a source of inspiration, and to explore the intersection of nature, technology, and creativity. the potential of harmonious coexistence between humanity and the natural world. The pavilion’s design seamlessly integrates with the surrounding environment, creating a symbiotic relationship between architecture and nature. The structure serves as example of sustainable living and ecological balance. 3D design where botanical pavilions and wind turbine farms merge to create a harmonious blend of nature and technology.",
-      "developer": ["Hamza", "Awais"]
+      "picture": "https://i.ibb.co/1dpMT94/blooom.png",
+      "title": "BLOOM",
+      "description": "By algorithmically locating “leaves” by a rotation of the golden angle a flower-like structure emerges. When the rotation of the Structure and the illumination by a stro-boscopic artificial light source matches a continuous flow of an endless bloom is crea-ted. This kind of artwork was first suggested by the american designer, sculptor, and professor at Stanford University John Edmark. The idea is to 3D-Model such a Design and to build the required rotating disk with the stroboscopic light.",
+      "developer": ["HSUN HSIANG HSU", "ALEKSANDRA MITROVIC", "SIMON LANG"]
     },
     {
       "id": 10,
-      "userName": "Group 2",
-      "picture": "https://i.ibb.co/BVGzHm6/Screenshot-2024-03-07-at-11-53-40.png",
-      "title": "3D DESIGN OF RAINWATER HARVESTING FOR DAILY USES",
-      "description": "Rainwater harvesting is a process of sustainability which will help preserving water for future needs. This is a simple and cost- effective process. To keep that in mind and to make the rainwater harvesting system more popular we have demonstrated a project in which we use 3D designed reserve tank and handmade house to show a short model of how this rainwater harvesting can be done for our houses. Water scarcity is a major issue now a days. For the non-developing countries and also for other countries, process will be a good way to conserve water.",
-      "developer": ["Md Touhidul Islam", "Subrina Jahan"]
+      "picture": "https://i.ibb.co/rt3ynx5/the-tree-and-its-strength.png",
+      "title": "The tree and it´s strength´s eternity idea basics",
+      "description": "Nature is endangered by human made concrete • It has to bend and twist around menmade obstacles to stay existent • Our project shows this • Inspired by the rings of a tree • The rings being made out of möbius strings show the eternal strength which nature defies us with",
+      "developer": ["Paul Jasper Warnecke", "Mariama Krügel"]
     },
     {
       "id": 11,
-      "userName": "Group 2",
-      "picture": "https://i.ibb.co/qYhsnZn/Picture-1.png",
-      "title": "Self – Sufficient Houses For Urban Areas",
-      "description": "Self-sufficient houses can help to address the housing crisis in Bangladesh while promoting sustainable living.Vertical gardening can help to maximize the use of space in urban areas and provide fresh produce for residents. Wind turbines can generate clean energy from the wind, which can be used to power homes and reduce reliance on fossil fuels.Solar power can provide a reliable source of energy for homes, especially in areas with frequent power outages. Biogas can be produced from organic waste and used as a source of fuel for cooking and heating.",
-      "developer": ["Md. Mahmudul Hasan", "Yeasir Arafat Ratul"]
+      "picture": "https://i.ibb.co/bBB4XX6/Rock-Solid-Paper-Light-img.jpg",
+      "title": "Rock Solid Paper Light",
+      "description": "This series presents unrealistic images where actual stones from the streets are picked up and houses are folded from paper, with the stones penetrating through the structures. It appears as if the stones have been magnified from within the houses or as if houses has grown out of the stones. Inspired by the intermingling of chemicals and natural earth during processes like soil sealing and pavement, each artwork symbolizes human structures represented by houses and nature symbolized by stones. Through these intertwined images,  the audience is prompted to o reflect on the disturbed balance between human intervention and the natural world.",
+      "developer": ["Sumin Lee", "Amber Akhtar"]
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/SNhY7Zr/Blooming-Radio-Waves.jpg",
+      "title": "BLOOMING RADIO WAVES",
+      "description": "The ecological perspective or post-Anthropocene perspective starts from awareness of the current situation we face. One of the various artificial traces created by humans is radio waves. It creates so many waves, so we can tell that we are living in the civilization of the radio waves. By creating a device that can sonify this huge ecological footprint, we can recognize the shock that is not captured by our senses. The project device has a flower-shaped antenna and a simple radio circuit. The antenna on the front plays the role of receiving radio waves existing around the device, like the recognition organ of a living organism. The detected signal passes through a radio circuit and is converted into a sound that the audience can hear. Through this signal, ␈the audiences can recognize the footprints of the gigantic technological civilization that always exists around us.",
+      "developer": ["Youngji Cho", "Sangbong Lee"]
+    },
+    {
+      "id": 13,
+      "picture": "https://i.ibb.co/fq6MZLS/geometry-in-bloom.png",
+      "title": "Geometry in Bloom: Multi-Functional 3D Folded Holder.",
+      "description": "Experience the intersection of art and functionality with our innovative project – Geometry in Bloom: Multi-Functional 3D Folded Holder. Fusing aesthetics and practicality, this design showcases intricate folding mechanisms and twisted structures, transforming everyday objects into captivating pieces of functional art. Beyond its visually stunning appeal, the holders bring a touch of nature indoors, promoting green living and well-being through the incorporation of plants. With stable structures supporting both plants and candles securely, these holders redefine home and office decor, bringing an element of artistic expression to daily life. The 3D folding technique not only enhances the design's aesthetic allure but also aligns seamlessly with sustainable principles, ensuring efficiency in material usage. Elevate your surroundings with this multi-purpose creation that transcends traditional decor boundaries, inspiring positive changes in daily living.",
+      "developer": ["Sarah Islam Momo", "Nazia Nusrat Ima"]
+    },
+    {
+      "id": 14,
+      "picture": "https://i.ibb.co/pbCWX6Y/not-available.jpg",
+      "title": "Yet to decide",
+      "description": "Yet to decide",
+      "developer": ["Hemanth Kuman Halaharvi", "Disha Mukre"]
+    },
+    {
+      "id": 15,
+      "picture": "https://i.ibb.co/649hK4N/urban-water-cycle.png",
+      "title": "Urban Water Cycle",
+      "description": "We have decided to create a model of an urban parasol that provides shade in urban areas while also reducing soil permeability by directly redistribuCng water into the ground. We plan to integrate a water redirecCon system inside the parasol to divert the water collected by a dome located at the top of the parasol into the soil, thus avoiding water stagnaCon on impermeable ground",
+      "developer": ["Tanguy Muller", "Justin Barbier"]
+    },
+    {
+      "id": 16,
+      "picture": "https://i.ibb.co/DbM86s1/HABANAT-RLICH.png",
+      "title": "HABANATÜRLICH",
+      "description": ". Our goal is to address energy challenges by combining renewable tech-nologies with environmentally friendly solutions. The salt-water battery uses a chemical reaction to generate electricity cleanly and efficiently.",
+      "developer": ["Milton Raggi Vinueza", "Nicolás Sánchez Noa"]
+    },
+    {
+      "id": 17,
+      "picture": "https://i.ibb.co/j8vN479/KINDERGEBIET.png",
+      "title": "KINDERGEBIET",
+      "description": "KINDERGEBIET is a speculative proposition for the construction of a playground in response to the anxiety shown by the city and city planners.",
+      "developer": ["GABRIELA VALDESPINO", "AKASH TRIVEDI"]
+    },
+    {
+      "id": 18,
+      "picture": "https://i.ibb.co/1RPFmgb/bunker-gone-green.jpg",
+      "title": "Bunker Gone Green",
+      "description": "Bunker Gone Green is a project about recreating nature’s behavior in a controlled and humanlike way, hence mimicking the breakthrough of nature into urban areas. So far, most of the bunkers that are still standing in Bremen, are not manipulated by the human hand in regards to its exterior, whilst nature is taking over on the outside surfaces of those bunkers. However, we would like to propose a change in that for the future and do so by demonstrating a possible approach to that with our project. Therefore, our project’s purpose is to showcase a possibility of how those bunkers’ rooftops could be used as human made gardens, which would bring more greenery into urban cities, as well as have a positive effect on the climate. In addition, these gardens can become a space for people to come to and remember historical events in the bunker's context, think about the past and its impact on the present as well as think of the possible future that people would like to live in and how that future could be shaped by people in the present times. This model was inspired by the bunker in the Oslebshauser Park in Bremen.",
+      "developer": ["Ivana Žemberi", "Yuliya Litvin"]
+    },
+    {
+      "id": 19,
+      "picture": "https://i.ibb.co/RH0BSh5/treeception.png",
+      "title": "TreeCeption",
+      "description": "We have created a tree-like 3D structure where there are different sizes of air pockets. These air pockets can be used as a container for real plant cultivation. We have decided on the name “TreeCeption” as our 3D tree structure can hold multiple trees/plants. This structure can be used as a decorative item in a household, at the same time it is environmentally friendly. Not only will our “TreeCeption” add beautiful interiors in households, shopping malls, parks, children's playgrounds but also real plants will add a positive impact on the environment like removing air pollution, increasing oxygen supply, combating different diseases etc. Besides, it could be an educational approach towards young children. They will be able to learn the importance of trees in our environment in a fun way. At the same time, as our structure can hold multiple plants, less space will be required and taking care of these plants will be much easier and hassle free. ",
+      "developer": ["Sharmen Shobnom Desha", "Sakib Arman"]
     }
   ]
 }
