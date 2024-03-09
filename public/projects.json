@@ -10,7 +10,7 @@
     {
       "id": 2,
       "picture": "https://i.ibb.co/2Ypyj8X/Screenshot-2024-03-07-at-01-52-05.png",
-      "title": "Flows in city",
+      "title": "Flows in the City",
       "description": " For the vegetal wall, the idea is that nowadays a lot of cities are doing rehabilitation, renovation,… asking creators and artists to embellish their cities and to add more environmental friendly embellishments through creative medium. In a way, the vegetal wall is a solution to add some “green” to a city in an interesting way. The advantages of the wall is that it can be adapted anywhere in the world by using the plants of the place concerned. In order to keep the idea of the course in mind, we use a generative pattern to determine the placement of each plant while allowing some randomness and some parameters like : how many areas, the type of the patterns and the uniqueness of the final art",
       "developer": ["Lilou Alidor", "Pauline Gobé"]
     },
@@ -18,14 +18,14 @@
     {
       "id": 4,
       "picture": "https://i.ibb.co/HKfnhBj/Screenshot-2024-03-07-at-01-57-32.png",
-      "title": "FRACTALS GROWING THROUGH CONCRETE",
+      "title": "Fractals Growing through Concrete",
       "description": "The project centers on designing and crafting diverse 3D figures inspired by natural forms through the intricate use of fractal techniques in Blender. Each fractal will be uniquely designed to resemble different plant species, showcasing the extensive morphological diversity found in the plant kingdom. These models aim to replicate the crucial interplay between vegetation and civilization and will be strategically placed within cracks and broken walls in a public space, serving as an intervention on the urban surface. ",
       "developer": ["Bardavid", "Soto Acebal", "Wang"]
     },
     {
       "id": 5,
       "picture": "https://i.ibb.co/ftC5nFw/Screenshot-2024-03-07-at-02-01-12.png",
-      "title": "RESPONDING TO THE EVER GROWING LAND SEALING ACTIVITIES AND DECIMATING",
+      "title": "Responding to the Ever Growing Land and Sealing Activities and Decimating",
       "description": "Responding to local ecological systems in cities, Flying circus is a kinetic art intervention across public spaces in Bremen. The work appropriates origami and principles of parametric designs to create imagery of natural elements that have been replaced by human presence and urban development. The kite like structure animated by gusts of wind that are characteristic of the city evoke a playful yet thought provoking scenario for loss of natural habitats across the globe and continuing troubled relationship between human and other-than-human worlds. These sculptures remind us of how natural entities are reduced to symbolic meanings, just the way the 'exhibited' performers of a circus are treated as a sight for mere amusement. ",
       "developer": ["ADITI CHAUHAN", "ZHIMIN WANG", "ZIYI LI"]
     },
@@ -39,14 +39,14 @@
     {
       "id": 6,
       "picture": "https://i.ibb.co/zS0FQLx/Screenshot-2024-03-07-at-02-05-20.png",
-      "title": "Incorporating plants",
+      "title": "Incorporating Plants",
       "description": "",
       "developer": ["Vanessa Elisabeth", "Yimei Zheng"]
     },
     {
       "id": 7,
       "picture": "https://i.ibb.co/jkQdCQY/Screenshot-2024-03-07-at-02-11-22.png",
-      "title": "Project ARTree GREEN CITY PLANNING",
+      "title": "Project ARTree Green City Planning",
       "description": "The ARTree, a revolutionary 3D model, reimagines urban landscapes by merging the natural elegance of plant-like structures with cutting-edge solar energy technology. This unique installation draws inspiration from the concept of 'Breaking folds' to create a solar panel design reminiscent of the sun's radiance, serving both aesthetic and functional purposes. The ARTree embodies a bold step towards sustainable urban development, harnessing the power of artificial photosynthesis to generate electricity. This innovative approach not only enhances the visual appeal of public spaces but also promotes efficient use of such areas by integrating central energy systems.",
       "developer": ["Abdullah Galive Fuad", "Zeeshan Haider", "Deepika Kathiravan"]
     },
@@ -60,21 +60,21 @@
     {
       "id": 8,
       "picture": "https://i.ibb.co/G5tJHGK/a-drop-of-magda.png",
-      "title": "A drop of Magda",
+      "title": "A Drop of Magda",
       "description": "Magda is an extension of us that will allow us to explore the materiality of the clay, to question our selves and our relation with the space and how we flow with it. Through speculation, experimentation and parametric desing. We want to create a fabric to inhabit the space in a non-invasive way.",
       "developer": ["Alethia Pinzon", "Vivian Hernandez R."]
     },
     {
       "id": 9,
       "picture": "https://i.ibb.co/1dpMT94/blooom.png",
-      "title": "BLOOM",
+      "title": "Bloom",
       "description": "By algorithmically locating “leaves” by a rotation of the golden angle a flower-like structure emerges. When the rotation of the Structure and the illumination by a stro-boscopic artificial light source matches a continuous flow of an endless bloom is crea-ted. This kind of artwork was first suggested by the american designer, sculptor, and professor at Stanford University John Edmark. The idea is to 3D-Model such a Design and to build the required rotating disk with the stroboscopic light.",
       "developer": ["HSUN HSIANG HSU", "ALEKSANDRA MITROVIC", "SIMON LANG"]
     },
     {
       "id": 10,
       "picture": "https://i.ibb.co/rt3ynx5/the-tree-and-its-strength.png",
-      "title": "The tree and it´s strength´s eternity idea basics",
+      "title": "The Tree and Its Strength Eternity Idea Basics",
       "description": "Nature is endangered by human made concrete • It has to bend and twist around menmade obstacles to stay existent • Our project shows this • Inspired by the rings of a tree • The rings being made out of möbius strings show the eternal strength which nature defies us with",
       "developer": ["Paul Jasper Warnecke", "Mariama Krügel"]
     },
@@ -86,23 +86,30 @@
       "developer": ["Sumin Lee", "Amber Akhtar"]
     },
     {
+      "id": 21,
+      "picture": "https://i.ibb.co/qYhsnZn/Picture-1.png",
+      "title": "Rainwater Harvesting for Daily Uses",
+      "description": "Rainwater harvesting is a process of sustainability which will help preserving water for future needs. This is a simple and cost- effective process. To keep that in mind and to make the rainwater harvesting system more popular we have demonstrated a project in which we use 3D designed reserve tank and handmade house to show a short model of how this rainwater harvesting can be done for our houses. Water scarcity is a major issue now a days. For the non-developing countries and also for other countries, process will be a good way to conserve water.",
+      "developer": ["Md Touhidul Islam", "Subrina Jahan"]
+    },
+    {
       "id": 12,
       "picture": "https://i.ibb.co/SNhY7Zr/Blooming-Radio-Waves.jpg",
-      "title": "BLOOMING RADIO WAVES",
+      "title": "Blooming Radio Waves",
       "description": "The ecological perspective or post-Anthropocene perspective starts from awareness of the current situation we face. One of the various artificial traces created by humans is radio waves. It creates so many waves, so we can tell that we are living in the civilization of the radio waves. By creating a device that can sonify this huge ecological footprint, we can recognize the shock that is not captured by our senses. The project device has a flower-shaped antenna and a simple radio circuit. The antenna on the front plays the role of receiving radio waves existing around the device, like the recognition organ of a living organism. The detected signal passes through a radio circuit and is converted into a sound that the audience can hear. Through this signal, ␈the audiences can recognize the footprints of the gigantic technological civilization that always exists around us.",
       "developer": ["Youngji Cho", "Sangbong Lee"]
     },
     {
       "id": 13,
       "picture": "https://i.ibb.co/fq6MZLS/geometry-in-bloom.png",
-      "title": "Geometry in Bloom: Multi-Functional 3D Folded Holder.",
+      "title": "Geometry in Bloom: Multi-Functional 3D Folded Holder",
       "description": "Experience the intersection of art and functionality with our innovative project – Geometry in Bloom: Multi-Functional 3D Folded Holder. Fusing aesthetics and practicality, this design showcases intricate folding mechanisms and twisted structures, transforming everyday objects into captivating pieces of functional art. Beyond its visually stunning appeal, the holders bring a touch of nature indoors, promoting green living and well-being through the incorporation of plants. With stable structures supporting both plants and candles securely, these holders redefine home and office decor, bringing an element of artistic expression to daily life. The 3D folding technique not only enhances the design's aesthetic allure but also aligns seamlessly with sustainable principles, ensuring efficiency in material usage. Elevate your surroundings with this multi-purpose creation that transcends traditional decor boundaries, inspiring positive changes in daily living.",
       "developer": ["Sarah Islam Momo", "Nazia Nusrat Ima"]
     },
     {
       "id": 14,
       "picture": "https://i.ibb.co/0cfysTk/Screenshot-2024-03-08-at-14-17-21.png",
-      "title": "A fusion of Architecture and Nature.",
+      "title": "A Fusion of Architecture and Nature",
       "description": "Shristhi - where architectural innovation meets timeless wisdom. Inspired by Vastu principles, our project harmonizes form and function to create spaces that resonate with natural beauty. 'Shristhi,' derived from Sanskrit for 'creation carrying connotations of creativity, innovation, and the exploration of new possibilities, embodies our commitment to crafting environments that inspire harmony and renewal. Guided by the principles of Vastu, our urban space features an optimal placement of elements, ensuring a seamless flow of energy and enhancing the well-being of its inhabitants. Explore our space, where expansive windows, lush balconies, and greenery evoke tranquility and connection with nature.",
       "developer": ["Hemanth Kuman Halaharvi", "Disha Mukre"]
     },
@@ -116,14 +123,14 @@
     {
       "id": 16,
       "picture": "https://i.ibb.co/DbM86s1/HABANAT-RLICH.png",
-      "title": "HABANATÜRLICH",
+      "title": "Habanatürlich",
       "description": ". Our goal is to address energy challenges by combining renewable tech-nologies with environmentally friendly solutions. The salt-water battery uses a chemical reaction to generate electricity cleanly and efficiently.",
       "developer": ["Milton Raggi Vinueza", "Nicolás Sánchez Noa"]
     },
     {
       "id": 17,
       "picture": "https://i.ibb.co/j8vN479/KINDERGEBIET.png",
-      "title": "KINDERGEBIET",
+      "title": "Kindergebiet",
       "description": "KINDERGEBIET is a speculative proposition for the construction of a playground in response to the anxiety shown by the city and city planners.",
       "developer": ["GABRIELA VALDESPINO", "AKASH TRIVEDI"]
     },
