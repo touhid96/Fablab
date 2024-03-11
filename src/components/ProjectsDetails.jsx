@@ -1,12 +1,14 @@
 import React from "react";
 import { Link, useLoaderData, useParams } from "react-router-dom";
-import UserImage from '../assets/user.svg';
+import UserImage from "../assets/user.svg";
 
 const ProjectsDetails = () => {
   const { projects } = useLoaderData();
-
   const { id } = useParams();
+  // const [project, setProject] = useState(projects?.find((p) => p.id == id));
+
   const project = projects?.find((p) => p.id == id);
+
   if (!project) {
     return "Loading";
   }
@@ -40,14 +42,14 @@ const ProjectsDetails = () => {
             <span className="mb-3 text-xl  leading-none sm:text-xl">
               Creator:
               {project.developer.map((a) => (
-                <div key={a} style={{ display: 'flex', alignItems: 'center' }}>
-                <img
-                  src={UserImage}
-                  alt="Image"
-                  style={{ width: '20px', height: '20px', marginRight: '10px' }}
-                />
-                <p>{a}</p>                
-              </div>
+                <div key={a} style={{ display: "flex", alignItems: "center" }}>
+                  <img
+                    src={UserImage}
+                    alt="Image"
+                    style={{ width: "20px", height: "20px", marginRight: "10px" }}
+                  />
+                  <p>{a}</p>
+                </div>
                 // <p key={a} className=" text-gray-500">
                 //   <span><img src={UserImage} height="20" width="20" /></span> <span>{a}</span>
                 // </p>
@@ -59,11 +61,11 @@ const ProjectsDetails = () => {
               <p className="mr-3">Go to Projects</p>
             </div>
           </Link> */}
-          <a href="/projects" className="btn md:w-auto md:mr-4 mt-10">
+          <Link to="/projects" className="btn md:w-auto md:mr-4 mt-10">
             <div className="inline-flex items-center justify-center w-full h-full">
-                <p className="mr-3">Go to Projects</p>
+              <p className="mr-3">Go to Projects</p>
             </div>
-          </a>
+          </Link>
         </div>
       </div>
     </div>
