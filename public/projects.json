@@ -131,8 +131,15 @@
       "id": 16,
       "picture": "https://i.ibb.co/DbM86s1/HABANAT-RLICH.png",
       "title": "Habanatürlich",
-      "description": ". Our goal is to address energy challenges by combining renewable tech-nologies with environmentally friendly solutions. The salt-water battery uses a chemical reaction to generate electricity cleanly and efficiently.",
+      "description": "Our goal is to address energy challenges by combining renewable tech-nologies with environmentally friendly solutions. The salt-water battery uses a chemical reaction to generate electricity cleanly and efficiently.",
       "developer": ["Milton Raggi Vinueza", "Nicolás Sánchez Noa"]
+    },
+    {
+      "id": 23,
+      "picture": "https://i.ibb.co/NYsztv5/Picture.jpg",
+      "title": "A Botanical Pavilion Harnessing Wind Power",
+      "description": "The botanical pavilion serves as a source of inspiration, and to explore the intersection of nature, technology, and creativity. the potential of harmonious coexistence between humanity and the natural world. The pavilion’s design seamlessly integrates with the surrounding environment, creating a symbiotic relationship between architecture and nature. The structure serves as example of sustainable living and ecological balance. 3D design where botanical pavilions and wind turbine farms merge to create a harmonious blend of nature and technology",
+      "developer": ["Hamza Faiq Ashraf", "Awais Khurshid"]
     },
     {
       "id": 17,
